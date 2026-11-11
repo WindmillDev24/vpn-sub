@@ -1,0 +1,1 @@
+vless://67cca10a-9644-4ec0-8e9a-f71ee9b2b6a9@48.103.99.76:443?security=reality&sni=www.mozilla.org&fp=chrome&pbk=UB4qj3ciiQLhXS8Nmo04VTssa438lmf8VY_OkoNUaCI&sid=022040ba4b1c8bfa&flow=xtls-rprx-vision&type=tcp#Amnezia-Xray
